@@ -19,7 +19,7 @@ This project demonstrates a real-time analytics dashboard using Kafka, Dash, and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com/olgierrd/rta-project.git
    cd <repository-name>
    ```
 
